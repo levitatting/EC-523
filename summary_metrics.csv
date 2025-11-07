@@ -1,0 +1,5 @@
+model,eval_loss,eval_accuracy,eval_macro_precision,eval_macro_recall,eval_macro_f1,eval_runtime,eval_samples_per_second,eval_steps_per_second,epoch,accuracy,macro_precision,macro_recall,macro_f1
+text_only,0.14841461181640625,0.9714522134877948,0.9674246484329849,0.9680418292512031,0.9677297968843162,1.9035,2539.485,79.851,3.0,,,,
+image_only,,,,,,,,,,0.56875,0.5549481900022272,0.6017626864773558,0.5581068672349093
+fusion_ocr_tuned,,,,,,,,,,0.5725,0.5686048726995656,0.620372386916753,0.5667606566442281
+fusion_textlr_freeze2,,,,,,,,,,0.57625,0.560353129536238,0.6048264150000284,0.564483596778506
